@@ -1,0 +1,161 @@
+* {
+    margin: 0
+}
+
+nav {
+    font-family: sans-serif;
+    height: 60px;
+    background-color: #fd7e00;
+    border: none;
+}
+
+span {
+    font-family: 'Baloo Bhai', cursive;
+}
+
+.right {
+    float: right;
+    margin-top: 25px;
+
+}
+
+nav img {
+    height: 30px;
+    width: 30px
+}
+
+nav p {
+    display: inline-block;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 20px;
+
+
+}
+
+.left {
+    margin-left: 25px;
+    float: left;
+    display: inline-block;
+    margin-top: 8px
+
+}
+
+.left a {  
+    font-family: 'Hind', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+.right a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    color: #FFC300;
+}
+
+.right li {
+}
+
+input[type=text] {
+    
+    border: 2px #ccc;
+    float: right;
+    font-size: 10px;
+    background-color: #efefed;
+    background-image: url('../img/search.png');
+    background-size: 20px;
+    background-position: right;
+    padding:10px;
+    margin-right: -350px;
+    background-repeat: no-repeat;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    margin-top: 5px;
+}
+
+section {
+    display: inline-block;
+    height: 500px;
+    width: 100% auto;
+}
+section img{
+    margin-top: 60px;
+    margin-left:30px;
+   
+}
+
+.body {
+    display: inline-block;
+}
+
+.juice {
+    display: inline-block;
+    color: #fe7e00;
+    height: 210px;
+    width: 100% auto;
+    margin-left: 25px;
+
+}
+
+.juice p {
+    margin-bottom: 80px;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+button {
+    height: 50px;
+    width: 175px;
+    margin-right: 25px;
+    border: transparent;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+.quote {
+    background-color: #fe7e00;
+    color: white;
+}
+
+.case {
+    background-color: #7accc8;
+    color: white;
+}
+
+
+sup {
+    font-size: 10px
+}
+
+.webapp {
+color:#7accc8;
+}
+ 
+footer {
+    background-color: #7accc8;
+    height: 60px;
+    width: auto;
+    margin: 0
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
